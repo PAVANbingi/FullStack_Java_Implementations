@@ -109,5 +109,3 @@ The Todo Management application is a comprehensive full-stack project that allow
 Through the development of the Employee Management and Todo Management full-stack projects, participants will acquire a deep understanding of both backend and frontend technologies. The course emphasizes practical application, preparing students to build scalable, secure, and user-friendly web applications in real-world environments.
 
 ---
-
-Feel free to customize any sections as per your preferences or add any additional information that you think is relevant!
