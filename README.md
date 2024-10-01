@@ -1,7 +1,3 @@
-Here’s an improved and detailed version of your README file for the projects in your **Fullstack Java Development with Spring Boot and React.js** course. This version enhances clarity, organization, and detail, making it easier for others to understand your work and its significance.
-
----
-
 # Fullstack Java Development with Spring Boot and React.js
 
 ## Overview
@@ -9,17 +5,17 @@ This repository contains multiple projects developed as part of the **Fullstack 
 
 ## Project List
 
-| Project Name                                      | Last Commit Message | Last Commit Date |
+| Project Name                                      | Last Commit Message | |
 |---------------------------------------------------|---------------------|------------------|
-| 1. **SpringBoot_3**                               | Updated              | 3 minutes ago    |
-| 2. **React_18**                                   | Updated              | 3 minutes ago    |
-| 3. **Project (i) Employee Management App**        | Updated              | 3 minutes ago    |
-| 4. **Project (ii) Login & Registration App**      | Updated              | 3 minutes ago    |
-| 5. **Project (iii) Todo Management App**          | Updated              | 3 minutes ago    |
-| 6. **Hosting (Live Fullstack)**                   | Updated              | 3 minutes ago    |
-| 7. **Feature Must Learn**                          | Updated              | 3 minutes ago    |
-| 8. **INTRO.md**                                   | Updated              | 3 minutes ago    |
-| 9. **README.md**                                  | Updated              | Now              |
+| 1. **SpringBoot_3**                               | Updated              |    |
+| 2. **React_18**                                   | Updated              |    |
+| 3. **Project (i) Employee Management App**        | Updated              |    |
+| 4. **Project (ii) Login & Registration App**      | Updated              |    |
+| 5. **Project (iii) Todo Management App**          | Updated              |    |
+| 6. **Hosting (Live Fullstack)**                   | Updated              | |
+| 7. **Feature Must Learn**                          | Updated              |   |
+| 8. **INTRO.md**                                   | Updated              |    |
+| 9. **README.md**                                  | Updated              |               |
 
 ## Abstract
 ### Course Title:
